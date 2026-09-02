@@ -1,0 +1,57 @@
+body {
+    font-family: "Times New Roman",serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke; 
+}
+header {
+    background: linear-gradient(to right, navy, teal);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 36px;
+    margin: 0;
+} 
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+ol,ul {
+    font-size: 18px;
+    line-height: 1.6;
+}
+li {
+    margin-bottom: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+a {
+    color: navy;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
